@@ -1,5 +1,5 @@
 // Base URL for API calls
-const API_BASE_URL = 'http://localhost:5047';
+const API_BASE_URL = 'https://crud-app-backend-tau.vercel.app';
 
 // API service object
 const api = {
